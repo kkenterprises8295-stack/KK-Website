@@ -1,0 +1,459 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>K K Enterprises | Printing Spare Parts & Office Equipment</title>
+
+<meta name="description" content="K K Enterprises - Printing Spare Parts, Toner Cartridges, Copier Spare Parts, Lamination Machines, Office Equipment and Photo Studio Products in Kochi, Kerala.">
+
+<meta name="keywords" content="Printer Spare Parts, Toner Cartridge, Copier Parts, Lamination Machine, Office Equipment, Kochi, Kerala">
+
+<meta name="author" content="K K Enterprises">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- HEADER -->
+
+<header>
+
+<div class="logo">
+<img src="images/logo.png" alt="K K Enterprises Logo">
+</div>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#products">Products</a>
+<a href="#about">About</a>
+<a href="#gallery">Gallery</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<a href="tel:+918619582488" class="call-btn">
+📞 Call Now
+</a>
+
+</header>
+
+<!-- HERO -->
+
+<section id="home" class="hero">
+
+<div class="hero-content">
+
+<h1>K K Enterprises</h1>
+
+<h2>Printing Spare Parts & Office Equipment</h2>
+
+<p>
+We supply Genuine Toner Cartridges, Printer Spare Parts,
+Copier Machine Parts, Lamination Machines,
+Binding Machines, PVC Cards,
+Photo Studio Products and Office Equipment
+across India.
+</p>
+
+<div class="hero-buttons">
+
+<a href="#products" class="btn btn-primary">
+Explore Products
+</a>
+
+<a href="https://wa.me/918619582488"
+class="btn btn-whatsapp">
+WhatsApp Now
+</a>
+
+</div>
+
+</div>
+
+</section>
+<section id="products" class="products">
+
+<div class="section-title">
+<h2>Our Products</h2>
+<p>High Quality Printing Spare Parts & Office Equipment</p>
+</div>
+
+<div class="product-grid">
+
+<div class="product-card">
+<img src="images/product1.jpg" alt="Canon Toner">
+<h3>Canon Toner Cartridges</h3>
+<p>Original & Compatible Canon Toner Cartridges.</p>
+</div>
+
+<div class="product-card">
+<img src="images/product2.jpg" alt="Konica Toner">
+<h3>Konica Toner</h3>
+<p>Premium Quality Konica Minolta Toner.</p>
+</div>
+
+<div class="product-card">
+<img src="images/product3.jpg" alt="Kyocera Toner">
+<h3>Kyocera Toner</h3>
+<p>Reliable toner solutions for Kyocera printers.</p>
+</div>
+
+<div class="product-card">
+<img src="images/product4.jpg" alt="JMAX Toner">
+<h3>JMAX Toner Powder</h3>
+<p>High performance toner powder.</p>
+</div>
+<div class="product-card">
+<img src="images/product5.jpg" alt="Printer Spare Parts">
+<h3>Printer Spare Parts</h3>
+<p>Laser & Inkjet printer spare parts for all major brands.</p>
+</div>
+
+<div class="product-card">
+<img src="images/product6.jpg" alt="Copier Machine Parts">
+<h3>Copier Machine Parts</h3>
+<p>Quality copier spare parts and accessories.</p>
+</div>
+
+<div class="product-card">
+<img src="images/product7.jpg" alt="Lamination Machine">
+<h3>Lamination Machines</h3>
+<p>Professional lamination machines and accessories.</p>
+</div>
+
+<div class="product-card">
+<img src="images/product8.jpg" alt="Binding Machine">
+<h3>Binding Machines</h3>
+<p>Spiral binding machines and office solutions.</p>
+</div>
+
+</div>
+
+
+</section>
+
+
+
+<!-- = ABOUT = -->
+
+<section id="about" class="about">
+
+<div class="section-title">
+    <h2>About K K Enterprises</h2>
+</div>
+
+<div class="about-content">
+
+    <div class="about-text">
+
+        <p>
+            <strong>K K Enterprises</strong> is one of the trusted suppliers of
+            Printing Spare Parts, Toner Cartridges, Copier Machine Parts,
+            Lamination Machines, Binding Machines, PVC Cards,
+            Office Equipment and Photo Studio Products.
+        </p>
+
+        <p>
+            We provide genuine products, competitive pricing,
+            fast delivery and reliable customer support for printing shops,
+            offices, businesses and institutions across India.
+        </p>
+
+    </div>
+
+</div>
+</section>
+
+<!-- = WHY CHOOSE US = -->
+
+<section class="why">
+
+<div class="section-title">
+    <h2>Why Choose K K Enterprises?</h2>
+    <p>Trusted by customers for quality products and dependable service.</p>
+</div>
+
+<div class="why-box">
+
+    <div class="item">
+        <h3>✔ Genuine Products</h3>
+        <p>100% original and quality-tested products.</p>
+    </div>
+
+    <div class="item">
+        <h3>🚚 Fast Delivery</h3>
+        <p>Quick dispatch and delivery across India.</p>
+    </div>
+
+    <div class="item">
+        <h3>💰 Best Prices</h3>
+        <p>Competitive wholesale and retail pricing.</p>
+    </div>
+
+    <div class="item">
+        <h3>🤝 Trusted Supplier</h3>
+        <p>Honest service with long-term customer support.</p>
+    </div>
+
+    <div class="item">
+        <h3>🖨 Wide Product Range</h3>
+        <p>Printer parts, toner, copier parts, PVC cards and office equipment.</p>
+    </div>
+
+    <div class="item">
+        <h3>⭐ Customer Satisfaction</h3>
+        <p>Support before and after every purchase.</p>
+    </div>
+
+</div>
+</section>
+<!-- = STATS = -->
+
+<section class="stats">
+
+<div class="stat">
+    <h2>10+</h2>
+    <p>Years Experience</p>
+</div>
+
+<div class="stat">
+    <h2>5000+</h2>
+    <p>Happy Customers</p>
+</div>
+
+<div class="stat">
+    <h2>1000+</h2>
+    <p>Products Available</p>
+</div>
+
+<div class="stat">
+    <h2>24/7</h2>
+    <p>Customer Support</p>
+</div>
+</section>
+<!-- = TESTIMONIALS = -->
+
+<section class="testimonials">
+
+<div class="section-title">
+    <h2>What Our Customers Say</h2>
+    <p>Trusted by businesses across India.</p>
+</div>
+
+<div class="testimonial-box">
+
+    <div class="testimonial">
+        ⭐⭐⭐⭐⭐
+        <p>
+            "Excellent quality toner cartridges and fast delivery.
+            Highly recommended."
+        </p>
+        <h4>- Happy Customer</h4>
+    </div>
+
+
+    <div class="testimonial">
+        ⭐⭐⭐⭐⭐
+        <p>
+            "Best place for printing spare parts and office equipment."
+        </p>
+        <h4>- Business Client</h4>
+    </div>
+
+
+    <div class="testimonial">
+        ⭐⭐⭐⭐⭐
+        <p>
+            "Original products with genuine pricing and great support."
+        </p>
+        <h4>- Regular Customer</h4>
+    </div>
+
+</div>
+</section>
+<!-- = PRODUCT CATEGORIES = -->
+
+<section id="categories" class="categories">
+
+<div class="section-title">
+    <h2>Our Product Categories</h2>
+    <p>Everything you need for printing and office solutions.</p>
+</div>
+
+<div class="gallery-box">
+
+    <div class="gallery-card">
+        <h3>🖨 Printer Spare Parts</h3>
+        <p>High-quality printer spare parts for leading brands.</p>
+    </div>
+
+    <div class="gallery-card">
+        <h3>🧾 Toner Cartridges</h3>
+        <p>Original and compatible toner cartridges.</p>
+    </div>
+
+    <div class="gallery-card">
+        <h3>📄 Copier Machine Parts</h3>
+        <p>Reliable copier accessories and spare parts.</p>
+    </div>
+
+    <div class="gallery-card">
+        <h3>📚 Lamination & Binding</h3>
+        <p>Lamination machines, binding machines and accessories.</p>
+    </div>
+
+    <div class="gallery-card">
+        <h3>🪪 PVC Cards</h3>
+        <p>Premium PVC cards for ID card printing.</p>
+    </div>
+
+    <div class="gallery-card">
+        <h3>📸 Photo Studio Products</h3>
+        <p>Professional products for studios and photographers.</p>
+    </div>
+
+</div>
+</section>
+<!-- = PRODUCT GALLERY = -->
+
+<section id="gallery" class="gallery">
+
+<div class="section-title">
+    <h2>Product Gallery</h2>
+    <p>Explore our featured products.</p>
+</div>
+
+<div class="gallery-grid">
+
+    <img src="images/product1.jpg" alt="Canon Toner">
+    <img src="images/product2.jpg" alt="Konica Toner">
+    <img src="images/product3.jpg" alt="Kyocera Toner">
+    <img src="images/product4.jpg" alt="JMAX Toner Powder">
+
+    <img src="images/product5.jpg" alt="Printer Spare Parts">
+    <img src="images/product6.jpg" alt="Copier Parts">
+    <img src="images/product7.jpg" alt="Lamination Machine">
+    <img src="images/product8.jpg" alt="Binding Machine">
+
+</div>
+</section>
+<!-- = CONTACT = -->
+
+<section id="contact" class="contact">
+
+<div class="section-title">
+    <h2>Contact Us</h2>
+    <p>We're here to help you with all your printing and office equipment needs.</p>
+</div>
+
+
+<div class="contact-info">
+
+    <p><strong>K K Enterprises</strong></p>
+
+    <p>
+        📞 <a href="tel:+918619582488">
+        +91 8619582488
+        </a>
+    </p>
+
+    <p>
+        📧 <a href="mailto:kkenterprises8295@gmail.com">
+        kkenterprises8295@gmail.com
+        </a>
+    </p>
+
+    <p>
+        📍 Ground Floor, SREEPADMAM Building,<br>
+        A L Jacob Road,<br>
+        Pullepady, Kochi,<br>
+        Ernakulam, Kerala – 682035
+    </p>
+
+</div>
+</section>
+<!-- = INQUIRY FORM = -->
+
+<section class="contact-form">
+
+<div class="section-title">
+    <h2>Send an Inquiry</h2>
+    <p>Tell us what you need, we will contact you soon.</p>
+</div>
+
+
+<form>
+
+    <input type="text" placeholder="Your Name" required>
+
+    <input type="tel" placeholder="Mobile Number" required>
+
+    <input type="email" placeholder="Email Address">
+
+    <textarea placeholder="Your Requirement"></textarea>
+
+    <button type="submit">
+        Send Inquiry
+    </button>
+
+</form>
+</section>
+<!-- = GOOGLE MAP = -->
+
+<section class="map">
+
+<div class="section-title">
+    <h2>Our Location</h2>
+</div>
+
+
+<iframe
+src="https://www.google.com/maps?q=Ground+Floor+SREEPADMAM+Building+A+L+Jacob+Road+Pullepady+Kochi&output=embed"
+width="100%"
+height="420"
+style="border:0;"
+loading="lazy"
+allowfullscreen>
+</iframe>
+</section>
+<!-- = FOOTER = -->
+
+<footer>
+
+<h3>K K Enterprises</h3>
+
+<p>Printing Spare Parts & Office Equipment</p>
+
+<p>📞 +91 8619582488</p>
+
+<p>📧 kkenterprises8295@gmail.com</p>
+
+<p>
+    © 2026 K K Enterprises. All Rights Reserved.
+</p>
+</footer>
+
+
+<!-- = FLOATING WHATSAPP = -->
+
+<a href="https://wa.me/918619582488"
+class="float-whatsapp"
+target="_blank">
+
+
+
+
+💬 
+</a>
+
+
+
+</body>
+</html>
